@@ -1,4 +1,5 @@
 # Puhaha-CustomCalendar
+[밥먹언?](https://github.com/DeveloperAcademy-POSTECH/MC3-Team3-Puhaha.git)에서 사용하기 위해 개발한 Custom Calendar Library 입니다.
 
 ## Members
 |[Colli]|[Key]|[Lena]|[Teemo]|[Woogy]|
