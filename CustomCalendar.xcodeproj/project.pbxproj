@@ -246,9 +246,17 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D9CAJN27UH;
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/lena/Desktop/1-1.",
+					Apple,
+					Developer,
+					Academy/4.,
+					MC3/CustomCalendar/lib,
+				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_INCLUDE_PATHS = "/Users/lena/Desktop/1-1. Apple Developer Academy/4. MC3/CustomCalendar/lib";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -259,9 +267,17 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = D9CAJN27UH;
+				LIBRARY_SEARCH_PATHS = (
+					"/Users/lena/Desktop/1-1.",
+					Apple,
+					Developer,
+					Academy/4.,
+					MC3/CustomCalendar/lib,
+				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_INCLUDE_PATHS = "/Users/lena/Desktop/1-1. Apple Developer Academy/4. MC3/CustomCalendar/lib";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
